@@ -36,8 +36,8 @@ This vault documents **implemented features and systems only**. Planning, roadma
 
 ## Repositories
 
-- **Codebase:** `C:/Users/thana/devops/palimpsest/`
-- **This Wiki:** `C:/Users/thana/vaults/HusteDev/Palimpsest-Writing-Software/`
+- **Codebase:** https://github.com/HusteDev/palimpsest
+- **This Wiki:** https://github.com/HusteDev/palimpsest-wiki
 
 ## Conventions
 
