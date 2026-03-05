@@ -11,12 +11,12 @@ This vault documents **implemented features and systems only**. Planning, roadma
 
 ## Tech Stack
 
-- **Backend:** Go (sidecar server via Tauri)
-- **Frontend:** Svelte 5 (SvelteKit)
-- **Desktop:** Tauri v2
-- **API:** REST with DTO isolation
-- **Database:** Per-project SQLite via Ent ORM
-- **Editor:** ProseMirror
+- **Backend:** [Go](https://go.dev/) ([Sidecar](https://v2.tauri.app/develop/sidecar/) server via Tauri)
+- **Frontend:** [Svelte 5](https://svelte.dev/) ([SvelteKit](https://svelte.dev/docs/kit/introduction))
+- **Desktop:** [Tauri v2](https://v2.tauri.app/)
+- **API:** [REST](https://restfulapi.net/) with [DTO isolation](https://en.wikipedia.org/wiki/Data_transfer_object)
+- **Database:** Per-project [SQLite](https://www.sqlite.org/) via[ Ent ORM](https://entgo.io/)
+- **Editor:** [ProseMirror](https://prosemirror.net/)
 
 ## Navigation
 
