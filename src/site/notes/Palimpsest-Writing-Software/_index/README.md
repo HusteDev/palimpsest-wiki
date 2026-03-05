@@ -30,10 +30,6 @@ This vault documents **implemented features and systems only**. Planning, roadma
 - [[Palimpsest-Writing-Software/_index/moc-core-features\|Core Features (Free License)]]
 - [[Palimpsest-Writing-Software/_index/moc-data-models\|Data Models & Schemas]]
 
-### Quick Links
-
-- [[_index/docs.base|Documentation Index (Bases)]]
-
 ## Repositories
 
 - **Codebase:** https://github.com/HusteDev/palimpsest
