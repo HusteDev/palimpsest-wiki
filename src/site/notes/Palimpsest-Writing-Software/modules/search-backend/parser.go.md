@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-backend/parser-go/","title":"search/parser.go","tags":["file","search-backend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-backend/parser-go/","title":"search/parser.go","tags":["file","search-backend"],"updated":"2026-03-05T05:32:44.414-07:00"}
 ---
 
 

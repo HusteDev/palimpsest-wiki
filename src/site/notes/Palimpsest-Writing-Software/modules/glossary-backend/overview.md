@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-backend/overview/","title":"Glossary Backend Module","tags":["module","glossary","backend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-backend/overview/","title":"Glossary Backend Module","tags":["module","glossary","backend"],"updated":"2026-03-05T05:32:42.597-07:00"}
 ---
 
 

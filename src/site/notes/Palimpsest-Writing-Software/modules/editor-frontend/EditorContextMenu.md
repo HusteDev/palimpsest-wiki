@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/editor-context-menu/","title":"EditorContextMenu.svelte","tags":["file","editor-frontend","svelte"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/editor-context-menu/","title":"EditorContextMenu.svelte","tags":["file","editor-frontend","svelte"],"updated":"2026-03-05T05:32:41.532-07:00"}
 ---
 
 

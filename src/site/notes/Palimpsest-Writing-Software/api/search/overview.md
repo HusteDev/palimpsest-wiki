@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/search/overview/","title":"Search API Service","tags":["api","search"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/search/overview/","title":"Search API Service","tags":["api","search"],"updated":"2026-03-05T05:32:38.376-07:00"}
 ---
 
 

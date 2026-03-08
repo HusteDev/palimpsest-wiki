@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/context-menu/","title":"contextMenu.ts","tags":["file","editor-frontend","prosemirror","plugin"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/context-menu/","title":"contextMenu.ts","tags":["file","editor-frontend","prosemirror","plugin"],"updated":"2026-03-05T05:32:41.435-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/data-models/panel-layout/","title":"PanelLayout","tags":["data-model","panels"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/data-models/panel-layout/","title":"PanelLayout","tags":["data-model","panels"],"updated":"2026-03-05T05:32:38.840-07:00"}
 ---
 
 

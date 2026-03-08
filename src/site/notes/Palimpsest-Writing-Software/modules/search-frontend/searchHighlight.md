@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/search-highlight/","title":"searchHighlight.ts","tags":["file","search-frontend","prosemirror","plugin"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/search-highlight/","title":"searchHighlight.ts","tags":["file","search-frontend","prosemirror","plugin"],"updated":"2026-03-05T05:32:45.118-07:00"}
 ---
 
 

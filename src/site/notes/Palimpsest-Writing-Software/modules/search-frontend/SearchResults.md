@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/search-results/","title":"SearchResults.svelte","tags":["file","search-frontend","component","panel"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/search-results/","title":"SearchResults.svelte","tags":["file","search-frontend","component","panel"],"updated":"2026-03-05T05:32:45.323-07:00"}
 ---
 
 

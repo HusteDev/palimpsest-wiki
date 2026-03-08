@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/text-annotation/","title":"textAnnotation.ts","tags":["file","editor-frontend","prosemirror","plugin"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/text-annotation/","title":"textAnnotation.ts","tags":["file","editor-frontend","prosemirror","plugin"],"updated":"2026-03-05T05:32:42.150-07:00"}
 ---
 
 

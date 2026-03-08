@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/glossary-entry-form/","title":"GlossaryEntryForm.svelte","tags":["file","glossary-frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/glossary-entry-form/","title":"GlossaryEntryForm.svelte","tags":["file","glossary-frontend"],"updated":"2026-03-05T05:32:43.049-07:00"}
 ---
 
 

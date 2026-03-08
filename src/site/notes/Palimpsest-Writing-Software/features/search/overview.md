@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/search/overview/","title":"Search Engine","tags":["feature","search","core"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/search/overview/","title":"Search Engine","tags":["feature","search","core"],"updated":"2026-03-05T06:38:34.755-07:00"}
 ---
 
 

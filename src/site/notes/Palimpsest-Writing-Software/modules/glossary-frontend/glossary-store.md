@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/glossary-store/","title":"glossary.ts (Store)","tags":["file","glossary-frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/glossary-store/","title":"glossary.ts (Store)","tags":["file","glossary-frontend"],"updated":"2026-03-05T05:32:42.946-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/overview/","title":"Search Frontend Module","tags":["module","search","frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/overview/","title":"Search Frontend Module","tags":["module","search","frontend"],"updated":"2026-03-05T05:32:44.765-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/commands/","title":"commands.ts","tags":["file","editor-frontend","prosemirror"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/commands/","title":"commands.ts","tags":["file","editor-frontend","prosemirror"],"updated":"2026-03-05T05:32:41.353-07:00"}
 ---
 
 

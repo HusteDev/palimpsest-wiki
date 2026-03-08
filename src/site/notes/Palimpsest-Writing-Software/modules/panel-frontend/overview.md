@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/panel-frontend/overview/","title":"Panel Frontend Module","tags":["module","panels","frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/panel-frontend/overview/","title":"Panel Frontend Module","tags":["module","panels","frontend"],"updated":"2026-03-05T05:32:43.750-07:00"}
 ---
 
 

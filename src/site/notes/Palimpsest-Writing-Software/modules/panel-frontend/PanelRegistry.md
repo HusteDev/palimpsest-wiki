@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/panel-frontend/panel-registry/","title":"PanelRegistry","tags":["file","panel-frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/panel-frontend/panel-registry/","title":"PanelRegistry","tags":["file","panel-frontend"],"updated":"2026-03-05T05:32:43.957-07:00"}
 ---
 
 

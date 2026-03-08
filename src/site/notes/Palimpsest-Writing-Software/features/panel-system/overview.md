@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/panel-system/overview/","title":"Panel System","tags":["feature","panels","core"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/panel-system/overview/","title":"Panel System","tags":["feature","panels","core"],"updated":"2026-03-05T05:32:40.585-07:00"}
 ---
 
 

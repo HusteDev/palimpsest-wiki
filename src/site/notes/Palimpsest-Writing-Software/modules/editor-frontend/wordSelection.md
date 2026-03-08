@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/word-selection/","title":"wordSelection.ts","tags":["file","editor-frontend","prosemirror"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/word-selection/","title":"wordSelection.ts","tags":["file","editor-frontend","prosemirror"],"updated":"2026-03-05T05:32:42.261-07:00"}
 ---
 
 

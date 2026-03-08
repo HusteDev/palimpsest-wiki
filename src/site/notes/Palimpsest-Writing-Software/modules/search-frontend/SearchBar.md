@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/search-bar/","title":"SearchBar.svelte","tags":["file","search-frontend","component"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/search-bar/","title":"SearchBar.svelte","tags":["file","search-frontend","component"],"updated":"2026-03-05T05:32:45.016-07:00"}
 ---
 
 

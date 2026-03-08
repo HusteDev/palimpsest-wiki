@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/editor/overview/","title":"ProseMirror Editor","tags":["feature","editor","prosemirror","core"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/editor/overview/","title":"ProseMirror Editor","tags":["feature","editor","prosemirror","core"],"updated":"2026-03-05T06:38:38.243-07:00"}
 ---
 
 

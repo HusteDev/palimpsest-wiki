@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/overview/","title":"Glossary Frontend Module","tags":["module","glossary","frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/overview/","title":"Glossary Frontend Module","tags":["module","glossary","frontend"],"updated":"2026-03-05T05:32:43.361-07:00"}
 ---
 
 

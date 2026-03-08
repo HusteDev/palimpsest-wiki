@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-backend/handlers-search-go/","title":"handlers/search.go","tags":["file","search-backend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-backend/handlers-search-go/","title":"handlers/search.go","tags":["file","search-backend"],"updated":"2026-03-05T05:32:44.193-07:00"}
 ---
 
 

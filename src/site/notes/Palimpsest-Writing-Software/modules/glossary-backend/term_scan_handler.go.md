@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-backend/term-scan-handler-go/","title":"term_scan_handler.go","tags":["file","glossary-backend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-backend/term-scan-handler-go/","title":"term_scan_handler.go","tags":["file","glossary-backend"],"updated":"2026-03-05T05:32:42.715-07:00"}
 ---
 
 

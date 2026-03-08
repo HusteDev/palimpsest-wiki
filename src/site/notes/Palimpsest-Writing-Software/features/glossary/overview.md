@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/glossary/overview/","title":"Glossary System","tags":["feature","glossary","core"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/glossary/overview/","title":"Glossary System","tags":["feature","glossary","core"],"updated":"2026-03-05T06:38:30.203-07:00"}
 ---
 
 

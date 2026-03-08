@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/glossary/post-create/","title":"POST /glossary","tags":["api","glossary"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/glossary/post-create/","title":"POST /glossary","tags":["api","glossary"],"updated":"2026-03-05T05:32:38.037-07:00"}
 ---
 
 

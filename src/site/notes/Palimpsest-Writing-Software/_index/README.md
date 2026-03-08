@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/index/readme/","title":"Palimpsest Technical Wiki","tags":["moc","index","gardenEntry"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/index/readme/","title":"Palimpsest Technical Wiki","tags":["moc","index","gardenEntry"],"updated":"2026-03-05T05:57:58.409-07:00"}
 ---
 
 

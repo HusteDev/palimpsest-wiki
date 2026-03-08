@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/glossary-panel/","title":"GlossaryPanel.svelte","tags":["file","glossary-frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/glossary-panel/","title":"GlossaryPanel.svelte","tags":["file","glossary-frontend"],"updated":"2026-03-05T05:32:43.258-07:00"}
 ---
 
 

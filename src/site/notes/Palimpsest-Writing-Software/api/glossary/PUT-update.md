@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/glossary/put-update/","title":"PUT /glossary/{id}","tags":["api","glossary"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/glossary/put-update/","title":"PUT /glossary/{id}","tags":["api","glossary"],"updated":"2026-03-05T05:32:38.171-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/search-store/","title":"search.ts (Store & API)","tags":["file","search-frontend","store"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-frontend/search-store/","title":"search.ts (Store & API)","tags":["file","search-frontend","store"],"updated":"2026-03-05T05:32:44.895-07:00"}
 ---
 
 

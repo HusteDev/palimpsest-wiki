@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/glossary/event-glossary-view-term/","title":"glossary:view-term","tags":["event-schema","glossary"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/glossary/event-glossary-view-term/","title":"glossary:view-term","tags":["event-schema","glossary"],"updated":"2026-03-05T05:32:37.490-07:00"}
 ---
 
 

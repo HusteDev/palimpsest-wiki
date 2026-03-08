@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/index/moc-data-models/","title":"MOC: Data Models & Schemas","tags":["moc","data-model"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/index/moc-data-models/","title":"MOC: Data Models & Schemas","tags":["moc","data-model"],"updated":"2026-03-05T05:40:36.793-07:00"}
 ---
 
 

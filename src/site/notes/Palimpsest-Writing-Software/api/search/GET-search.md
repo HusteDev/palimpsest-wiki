@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/search/get-search/","title":"GET Search","tags":["api","search"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/api/search/get-search/","title":"GET Search","tags":["api","search"],"updated":"2026-03-05T05:32:38.274-07:00"}
 ---
 
 

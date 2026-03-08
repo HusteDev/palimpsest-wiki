@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/glossary/diagrams/term-scan-flow/","title":"Term Scan Flow","tags":["excalidraw"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/glossary/diagrams/term-scan-flow/","title":"Term Scan Flow","tags":["excalidraw"],"updated":"2026-03-05T05:32:40.017-07:00"}
 ---
 
 

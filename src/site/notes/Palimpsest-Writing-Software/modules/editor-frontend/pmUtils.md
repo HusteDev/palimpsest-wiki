@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/pm-utils/","title":"pmUtils.ts","tags":["file","editor-frontend","prosemirror"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/pm-utils/","title":"pmUtils.ts","tags":["file","editor-frontend","prosemirror"],"updated":"2026-03-05T05:32:41.840-07:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/prose-mirror-editor/","title":"ProseMirrorEditor","tags":["class","editor-frontend","prosemirror"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/prose-mirror-editor/","title":"ProseMirrorEditor","tags":["class","editor-frontend","prosemirror"],"updated":"2026-03-05T05:32:41.949-07:00"}
 ---
 
 

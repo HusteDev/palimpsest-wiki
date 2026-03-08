@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/data-models/glossary/","title":"Glossary","tags":["data-model","glossary"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/data-models/glossary/","title":"Glossary","tags":["data-model","glossary"],"updated":"2026-03-05T05:32:38.479-07:00"}
 ---
 
 

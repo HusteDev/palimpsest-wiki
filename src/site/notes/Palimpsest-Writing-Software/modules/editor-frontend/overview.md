@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/overview/","title":"Editor Frontend Module","tags":["module","editor-frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/editor-frontend/overview/","title":"Editor Frontend Module","tags":["module","editor-frontend"],"updated":"2026-03-05T05:32:41.722-07:00"}
 ---
 
 

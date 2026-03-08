@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/glossary-mark/","title":"glossaryMark.ts","tags":["file","glossary-frontend","prosemirror"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-frontend/glossary-mark/","title":"glossaryMark.ts","tags":["file","glossary-frontend","prosemirror"],"updated":"2026-03-05T05:32:43.153-07:00"}
 ---
 
 

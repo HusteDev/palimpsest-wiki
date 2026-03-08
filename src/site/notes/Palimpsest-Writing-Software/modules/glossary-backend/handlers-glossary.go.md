@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-backend/handlers-glossary-go/","title":"handlers/glossary.go","tags":["file","glossary-backend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-backend/handlers-glossary-go/","title":"handlers/glossary.go","tags":["file","glossary-backend"],"updated":"2026-03-05T05:32:42.489-07:00"}
 ---
 
 

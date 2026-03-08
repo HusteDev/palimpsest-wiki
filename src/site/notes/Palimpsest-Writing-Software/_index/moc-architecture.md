@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/index/moc-architecture/","title":"MOC: Architecture & Infrastructure","tags":["moc","architecture"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/index/moc-architecture/","title":"MOC: Architecture & Infrastructure","tags":["moc","architecture"],"updated":"2026-03-05T05:40:47.397-07:00"}
 ---
 
 

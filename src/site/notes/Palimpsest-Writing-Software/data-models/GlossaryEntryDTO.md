@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/data-models/glossary-entry-dto/","title":"GlossaryEntryDTO","tags":["data-model","glossary","dto"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/data-models/glossary-entry-dto/","title":"GlossaryEntryDTO","tags":["data-model","glossary","dto"],"updated":"2026-03-05T05:32:38.722-07:00"}
 ---
 
 

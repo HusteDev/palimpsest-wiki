@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/data-models/search-result/","title":"SearchResult","tags":["data-model","search"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/data-models/search-result/","title":"SearchResult","tags":["data-model","search"],"updated":"2026-03-05T05:32:38.949-07:00"}
 ---
 
 

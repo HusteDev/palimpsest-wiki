@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/panel-frontend/mini-panel/","title":"MiniPanel","tags":["file","panel-frontend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/panel-frontend/mini-panel/","title":"MiniPanel","tags":["file","panel-frontend"],"updated":"2026-03-05T05:32:43.651-07:00"}
 ---
 
 

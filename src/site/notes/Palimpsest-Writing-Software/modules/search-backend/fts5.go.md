@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-backend/fts5-go/","title":"search/fts5.go","tags":["file","search-backend"]}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/search-backend/fts5-go/","title":"search/fts5.go","tags":["file","search-backend"],"updated":"2026-03-05T05:32:44.057-07:00"}
 ---
 
 
