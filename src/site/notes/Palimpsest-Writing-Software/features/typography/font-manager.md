@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/typography/font-manager/","title":"Font Manager","tags":["feature","fonts","typography","core"],"updated":"2026-03-07T17:43:45.461-07:00"}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/typography/font-manager/","title":"Font Manager","tags":["feature","fonts","typography","core"],"updated":"2026-03-07T18:03:30.317-07:00"}
 ---
 
 

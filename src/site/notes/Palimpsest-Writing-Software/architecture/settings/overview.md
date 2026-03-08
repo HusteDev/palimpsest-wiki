@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/architecture/settings/overview/","title":"Settings System","tags":["architecture","settings","configuration","infrastructure"],"updated":"2026-03-05T08:55:17.437-07:00"}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/architecture/settings/overview/","title":"Settings System","tags":["architecture","settings","configuration","infrastructure"],"updated":"2026-03-07T18:41:44.967-07:00"}
 ---
 
 
@@ -222,8 +222,48 @@ The frontend (`preferences.ts`) also performs its own migration layer using `mig
 
 ## Diagrams
 
-- [[Palimpsest-Writing-Software/architecture/settings/diagrams/settings-load-flow\|Settings Load: Startup Initialization]]
-- [[Palimpsest-Writing-Software/architecture/settings/diagrams/settings-update-flow\|Settings Update: Frontend Save to Disk]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Settings Load: Startup Initialization
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Settings Update: Frontend Save to Disk
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
 
 ## Related
 

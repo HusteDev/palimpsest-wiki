@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-backend/overview/","title":"Glossary Backend Module","tags":["module","glossary","backend"],"updated":"2026-03-05T05:32:42.597-07:00"}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/glossary-backend/overview/","title":"Glossary Backend Module","tags":["module","glossary","backend"],"updated":"2026-03-07T18:44:45.661-07:00"}
 ---
 
 
@@ -48,10 +48,93 @@ Route registration happens in `backend/internal/http/server.go`, where `Glossary
 
 ## Dataflow Diagrams
 
-- [[Palimpsest-Writing-Software/features/glossary/diagrams/create-entry-flow\|Create Entry Flow]]
-- [[Palimpsest-Writing-Software/features/glossary/diagrams/update-entry-flow\|Update Entry Flow]]
-- [[Palimpsest-Writing-Software/features/glossary/diagrams/delete-entry-flow\|Delete Entry Flow]]
-- [[Palimpsest-Writing-Software/features/glossary/diagrams/term-scan-flow\|Term Scan Flow]]
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/palimpsest-writing-software/features/glossary/diagrams/create-entry-flow/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Create Entry Flow
+
+</div>
+
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/palimpsest-writing-software/features/glossary/diagrams/update-entry-flow/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Update Entry Flow
+
+</div>
+
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/palimpsest-writing-software/features/glossary/diagrams/delete-entry-flow/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Delete Entry Flow
+
+</div>
+
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/palimpsest-writing-software/features/glossary/diagrams/term-scan-flow/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Term Scan Flow
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
 
 ## Security
 

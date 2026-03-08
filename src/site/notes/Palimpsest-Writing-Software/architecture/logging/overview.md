@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/architecture/logging/overview/","title":"Logging System Architecture","tags":["architecture","logging","infrastructure"],"updated":"2026-03-05T07:10:20.440-07:00"}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/architecture/logging/overview/","title":"Logging System Architecture","tags":["architecture","logging","infrastructure"],"updated":"2026-03-07T18:41:49.578-07:00"}
 ---
 
 
@@ -160,8 +160,48 @@ settings.json
 
 ## Diagrams
 
-- [[Palimpsest-Writing-Software/architecture/logging/diagrams/logging-init-flow\|Logging Initialization: Two-Phase Startup]]
-- [[Palimpsest-Writing-Software/architecture/logging/diagrams/log-output-flow\|Log Output: Cross-Layer Routing]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Logging Initialization: Two-Phase Startup
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Log Output: Cross-Layer Routing
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
 
 ## Related
 

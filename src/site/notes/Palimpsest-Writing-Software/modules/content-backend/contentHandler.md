@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/content-backend/content-handler/","title":"content.go (Handler)","tags":["file","content-backend","handler"],"updated":"2026-03-05T06:24:45.425-07:00"}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/modules/content-backend/content-handler/","title":"content.go (Handler)","tags":["file","content-backend","handler"],"updated":"2026-03-07T18:15:29.143-07:00"}
 ---
 
 

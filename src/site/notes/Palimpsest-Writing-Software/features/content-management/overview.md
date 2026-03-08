@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/content-management/overview/","title":"Content Management","tags":["feature","content-management","core"],"updated":"2026-03-05T06:20:10.471-07:00"}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/content-management/overview/","title":"Content Management","tags":["feature","content-management","core"],"updated":"2026-03-07T18:43:23.649-07:00"}
 ---
 
 
@@ -135,9 +135,114 @@ The backend provides REST endpoints for content CRUD, tree operations, and reord
 
 ## Dataflow Diagrams
 
-- [[Palimpsest-Writing-Software/features/content-management/diagrams/create-content-flow\|Create Content: Full Lifecycle]]
-- [[Palimpsest-Writing-Software/features/content-management/diagrams/save-content-flow\|Save Content: Three-Tier Persistence]]
-- [[Palimpsest-Writing-Software/features/content-management/diagrams/delete-content-flow\|Delete Content: Cleanup Chain]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Create Content: Full Lifecycle
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+Title: Create Content Full Lifecycle Subtitle: ContentTree -> CreateContentModal -> API -> Repository -> DB 
+Zone 1 - Frontend UI:
+- Click "Add" in ContentTree
+- CreateContentModal opens (3-step wizard)
+- Step 1: Select content type (filtered by parent level)
+- Step 2: Select parent (if level > 1)
+- Step 3: Enter title (or auto-title checkbox)
+- contentApi.createContent(projectSlug, parentSlug, input)
+
+Zone 2 - API Layer:
+- HTTP POST /api/projects/{slug}/content or /{parent}/children
+- Validate: title required, contentTypeId required
+- Call store.CreateContent()
+- Return ContentResponse JSON
+
+Zone 3 - Repository / Database:
+- Get project by slug
+- Get content type by ID
+- Resolve parent (if any)
+- Slugify(title) -> slug
+- nextSiblingOrder() -> order
+- Create Ent entity with all fields
+- buildSlugPath() (walk parent chain)
+- FTS5 Index (search indexing)
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Save Content: Three-Tier Persistence
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Delete Content: Cleanup Chain
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+1. User clicks Delete in ContentTree 
+Confirmation Dialog 
+2. contentApi.deleteContent (projectSlug, slugPath) 
+3. HTTP DELETE /api/projects/{slug}/content/{path} 
+4. Load content + ProseMirror JSON 
+5. ExtractMarksOfType() glossaryLink marks 
+6. Group by termId count occurrences 
+7. Decrement glossary counts (usageCount, docCount) best effort 
+8. store.DeleteContent() 
+9. Resolve content by slug path 
+10. Capture parent ID for post-delete ops 
+11. Delete via Ent (cascade handles children) 
+12. Remove from FTS5 search index 
+13. RecalculateWordCount (recursive up tree) 
+14. ReorderAndRenameSiblings (two-pass: temp slugs -> final slugs) 
+15. Return 204 No Content 
+Frontend (Blue) 
+Handler (Glossary Cleanup) 
+Repository (Delete + Cascade Cleanup) 
+Cleanup Chain: FTS5 -> Word Count -> Sibling Reorder 
+
+
+
+
+</div></div>
+
 
 ## Design Decisions
 

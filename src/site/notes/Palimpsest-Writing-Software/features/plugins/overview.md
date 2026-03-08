@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/plugins/overview/","title":"Plugin System","tags":["feature","plugins","extensibility"],"updated":"2026-03-05T09:10:21.617-07:00"}
+{"dg-publish":true,"permalink":"/palimpsest-writing-software/features/plugins/overview/","title":"Plugin System","tags":["feature","plugins","extensibility"],"updated":"2026-03-07T18:43:35.163-07:00"}
 ---
 
 
@@ -214,8 +214,48 @@ Each plugin receives a `PluginAPI` object in its context providing:
 
 ## Diagrams
 
-- [[Palimpsest-Writing-Software/features/plugins/diagrams/plugin-discovery-flow\|Plugin Discovery: Backend Scan to Frontend Load]]
-- [[Palimpsest-Writing-Software/features/plugins/diagrams/content-rendering-flow\|Content Rendering: Plugin Renderer Lifecycle]]
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Plugin Discovery: Backend Scan to Frontend Load
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+# Content Rendering: Plugin Renderer Lifecycle
+
+</div>
+
+
+
+
+# Excalidraw Data
+
+## Text Elements
+
+
+
+
+</div></div>
+
 
 ## Related
 
